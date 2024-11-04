@@ -163,7 +163,7 @@ the above code make sure to till the ground and trade the seed andgrow carrot mo
 - arranging the code and make sure that step are in order like first making ground till and trade and plant   carrot and harvest
 
 
-## Step 6: Farming on 3x3 tile
+## Step 6: Farming on 4x4 tile
 After unlocking the function and variable
 ![after unlocking variables and function](<screenshot/Screenshot 2024-11-03 113140.png>)
 
@@ -198,7 +198,7 @@ and to be noted that 'Movement()' is also called or change to function
 - calling every code as a function and making sure that the function to run in the main file was challanging 
 
 
-## Step 6: Farming on 3x3 tile
+## Step 7: Farming on 4x4 tile
 **Code:**tree              
 ```python (tree)
 def Tree():
@@ -230,7 +230,7 @@ After challanges
 ![alt text](<screenshot/Screenshot 2024-11-03 123302.png>)
 
 
-## Step 7: Farming on 3x3 tile
+## Step 8: Farming on 5x5 tile
 **Code:**Pumpkins             
 ```python (tree)
 def pump():
@@ -262,7 +262,7 @@ The code implements a strategy for a farming entity in a game. It continuously i
 - The code makes a farmer move around the world, harvesting crops, planting seeds, and using water. However, it could be more efficient by reducing unnecessary movement and better managing resources. Additionally, it might struggle in larger worlds or when conditions change.
 
 
-## Step 8: Farming on 3x3 tile
+## Step 9: Farming on 5x5 tile
 **Code:**Sunflower             
 ```python (sunflower)
 def sun():
